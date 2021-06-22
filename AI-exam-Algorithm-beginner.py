@@ -1,3 +1,4 @@
+# Beginner level code with detailed understanding
 import random
 q1 = {"4-2 is = how much":2, "7-2 = How much":5, "1-1 = How much":0 }
 q2 = {"7+9-9 = how much":7,"1+24-9+4 = how much":20,"19-12+10 = how much":17}
