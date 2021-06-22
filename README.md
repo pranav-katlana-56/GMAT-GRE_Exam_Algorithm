@@ -11,4 +11,9 @@ To give you a better image of my code lets assume that you got level 1 question 
 
 Basically these alogorithm works on the concept of, "THE MORE CORRECT ANSWERS YOU GIVE , THE MORE HARD QUESTION WE SERVE"
 
+I have added two files in this repo:
+  The first File named "AI-EXAM-Algorithm-Beginner"
+  contains more lines of code with better understanding, however if you have good knowledge of dictionaries and lists then
+  consider going through second file named "AI-EXAM-ALGORITHM-INTERMEDIATE"
+
 In my code I am using list of dictionaries to store different levels of questions and answers, you can copy the code as it as and can run on your local machine to see the results
